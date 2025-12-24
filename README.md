@@ -39,15 +39,7 @@ This repository provides a Python-based application to generate test cases and t
 
 ## Usage
 
-1. Edit the
-
-requirement_text
-
-variable in
-
-TestCase.py
-
-to include your software requirement.
+1. Edit the requirement_text variable in TestCase.py to include your software requirement.
 
 2. Run the script:
 
