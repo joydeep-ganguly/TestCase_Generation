@@ -1,4 +1,4 @@
-# TestCaseGeneration
+# Test-Case Generation
 
 This repository provides a Python-based application to generate test cases and test artifacts for the Q&A team. It uses OpenAI's GPT-4 model to create detailed and structured test documentation based on software requirements.
 
